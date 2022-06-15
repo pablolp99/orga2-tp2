@@ -1,0 +1,12 @@
+src/build/
+src/output/
+.gdb_history
+*.o
+src/tests/__pycache__/
+informe/
+src/experimentos/
+src/make_tp2.sh
+src/runExperiments.sh
+src/tests/data/imagenes_a_testear/
+src/tests/data/resultados_catedra/
+src/tests/data/resultados_nuestros/
