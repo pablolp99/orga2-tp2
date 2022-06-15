@@ -19,5 +19,5 @@ Estos 3 pasos dejan en broken.csv todos los resultados para luego procesarlos y 
 
 Integrantes:
  - Pablo Lopes Perera
- - Joaquin Naftaly
- - Gabriel Hayon
+ - Joaquin Naftaly (@joaconafta)
+ - Gabriel Hayon (@gabrielhayon)
